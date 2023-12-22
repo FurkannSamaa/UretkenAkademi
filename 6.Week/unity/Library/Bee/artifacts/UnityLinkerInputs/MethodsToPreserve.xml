@@ -1,0 +1,14 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="GameScript">
+			<method name="back"/>
+		</type>
+		<type fullname="MenuScript">
+			<method name="labelQuit"/>
+			<method name="Play"/>
+			<method name="Quit"/>
+			<method name="Setting"/>
+			<method name="submit"/>
+		</type>
+	</assembly>
+</linker>
